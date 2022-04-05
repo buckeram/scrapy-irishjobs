@@ -10,7 +10,7 @@ docker-py==1.10.6
 docker-pycreds==0.2.1
 idna==2.4
 incremental==16.10.1
-lxml==4.6.2
+lxml==4.6.5
 packaging==16.8
 parsel==1.1.0
 pyasn1==0.2.3
@@ -28,7 +28,7 @@ Scrapy==1.8.2
 service-identity==16.0.0
 shub==2.5.1
 six==1.10.0
-Twisted==22.1
+Twisted==22.2.0
 w3lib==1.17.0
 websocket-client==0.40.0
 zope.interface==4.3.3
